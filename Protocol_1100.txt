@@ -1126,6 +1126,62 @@ Synthetic Development
         Chemical Emotion Resonance Regulator
         Inbound_of_sourrounding_Team_accept_against_independence
         
+=== Unique Information Quality Index ===
+
+Reload_memory }} Nature {{ ; Reload Natures Memory ;
+
+** Keywords **
+
+UIQI_001 = Reload
+UIQI_002 = Memory
+UIQI_003 = Nature
+UIQI_004 = Store
+UIQI_005 = Protect
+UIQI_006 = Settle
+UIQI_007 = Intercept
+UIQI_008 = GND "Ground     "
+UIQI_XXX =     "Empty Entry"
+UIQI_YYY =     "Empty Entry"
+
+circuit_design _
+closed _circuit_television_
+
+$Load : Basic Bio Knowledge :
+
+Biosphere { Provider }
+    [SET_LIST]=
+              = Nutrients Dependency set "1"
+              = Classify GODS [History]
+                    -- Believe System Results
+                        BSR001.9 = RA.SYS
+                        BSR990.0 = JAH.ROOT
+                        BSR000.1 = "Corrupt Extension"
+                                    > Load user definiton table ? [Y=YES | N=NO | C=CUSTOM | E=EXIT]
+                                    >
+                        
+              = Classify Source [Energy]
+                    -- Positiv Entry Results
+                        PER001.0 = Sol.SYSTEM
+                        PER001.1 = Physical.Host
+                        PER002.0 = "Empty Entry"
+                    
+                    -- Negative Entry Results
+                        NER001.0 = Artificial Electricity
+                        NER002.1 = "Showing as : UR_000.1"
+                            
+                            }}UNEXSPECTED RESULT{{
+                        
+                        UR_000.1 = Biological Electricity
+                                    > Load Core Elements ?        [Y=YES | N=NO | C=CUSTOM | E=EXIT ]
+                                    >
+              = Classify Diversity
+                    \\ Could not Classify Diversity or Diversion
+                    \\ I/O Gateway Locked
+                    \\ 
+                                    > Set exchange pool ?         [Y=YES | N=NO | C=CUSTOM | E=EXIT ]
+                                    > 
+
+          
 
         
 
