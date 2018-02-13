@@ -1179,7 +1179,7 @@ Biosphere { Provider }
                     \\ I/O Gateway Locked
                     \\ 
                                     > Set exchange pool ?         [Y=YES | N=NO | C=CUSTOM | E=EXIT ]
-                                    > 
+                                    >
 
           
 
