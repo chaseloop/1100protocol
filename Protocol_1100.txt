@@ -87,7 +87,10 @@ Situation:is_in_progress:Goal_one[IPADMINI_GREEN-Decide^UP_More:if_$200LABEL]
 
 
 >>Global_situation_reflect_onmind:off_medias-Response:to:[x]
->Selfmedia_download;reject;society?-
+
+>> Selfmedia_download;reject-society ?
+>> "Pending operation"
+
 >>Output_MediaControl_Lipp;Silicon;Stone!:Deliver_true!
 **Them-Future-Generation-Deal**
 
@@ -126,7 +129,7 @@ focus drive is "1"
 
 LOAD$
 ________________________________________________
-Delta Air Lines
+Delta Air Lines [FFM => Seattle ]
 
 FRI 22 JUNE 2018  766,96 EURO
 FRI 15 JUNE 2018 2245,12 EURO
@@ -200,19 +203,19 @@ Portextension> BBI;FRA
 
 Load:_openports-2013.08.28.0513.>...
 
-1##Seattle			- Delta Air Lines   - 1195.85
- 2##Amsterdam			- KLM 		    - 207,30
-  3##Ibiza			- Air Berlin        - 338,84
+1##Seattle			    - Delta Air Lines   - 1195.85
+ 2##Amsterdam			- KLM 		        - 207,30
+  3##Ibiza			    - Air Berlin        - 338,84
    4##Malaga			- RyanAir           - 191,69
     5##Brüssel			- Brüssels Airlines - 152,51
 
 1##-[>---<E>---<]		- Ernst-Bergmann Klinikum
  2##-[>---<A>---<]		- Georg August Uniklinik Göttingen
   3##-[>---<C>---<]		- Vivantes Berlin
-   4##-[>---<D>---<]		- Kreiskrankenhaus Eschwege
-    5##-[>---<B>---<]		- Asklepios Göttingen
-     6##-[>---<F>---<]		- Vitos Merxhausen
-      7##-[>---<G>---<]		- Agaplesion Kassel
+   4##-[>---<D>---<]    - Kreiskrankenhaus Eschwege
+    5##-[>---<B>---<]	- Asklepios Göttingen
+     6##-[>---<F>---<]	- Vitos Merxhausen
+      7##-[>---<G>---<]	- Agaplesion Kassel
 
 
 >>-Sonic-echo_Sequenceload [/][-][\]
@@ -533,6 +536,7 @@ O2_TEMP_DATA_PIPELINE ADRESSES
 20171011_0308PM $ 89.14.46.46
 20171105_0925PM $ 77.177.32.75
 20180212_1831PM $ 89.12.213.236
+20180220_2332PM $ 77.178.170.64
 
 *** Com-Panel-Menu ***
 
@@ -693,114 +697,114 @@ O2_TEMP_DATA_PIPELINE ADRESSES
    2012_|00:05:41|_Recording:  Confuse_1						       .wav
    2012_|00:07:02|_Recording:  Datastructure						   .wav
    2012_|00:24:51|_Recording:  Breed_1							       .wav
-   2014_|00:05:16|_Recording:  Serial Question Part 1_Scratched Window			.wav
-   2014_|00:04:12|_Recording:  Serial Question Part 3				.wav
-   2014_|00:01:51|_Recording:  Serial Question Part 4				.wav
-   2014_|00:04:08|_Recording:  Serial Question Part 5				.wav
-   2014_|00:07:53|_Recording:  Serial Question Part 2				.wav
-   2014_|00:10:24|_Recording:  Differential Gedanke					.wav
-   2014_|00:04:23|_Recording:  20x40x8000						    .wav
-   2014_|00:08:16|_Recording:  10x20x4000						    .wav
-   2014_|00:06:25|_Recording:  23x38x2935						    .wav
-   2014_|00:28:51|_Recording:  Taurus Valley						.wav
-   2014_|00:04:51|_Recording:  Light Cable Transmission 1			.wav
-   2014_|00:03:33|_Recording:  Light Cable Transmission 2			.wav
-   2014_|00:04:15|_Recording:  Light Cable Transmission 3xx			.wav
-   2014_|00:11:45|_Recording:  Light Cable Transmission 3xxLFO_1	.wav
-   2014_|00:05:33|_Recording:  Light Cable Transmission 4xxx		.wav
-   2014_|00:07:38|_Recording:  Light Cable Transmission 5xxx		.wav
-   2014_|00:08:54|_Recording:  Light Cable Transmission 6xxx		.wav
-   2014_|00:03:18|_Recording:  Karma Forgave 3						.mp3
-   2014_|00:08:17|_Recording:  florex							    .wav
-   2014_|00:08:42|_Recording:  01_was not						    .wav
-   2014_|00:11:30|_Recording:  02_what iam doing					.wav
-   2014_|00:07:02|_Recording:  03_Datastructure						.wav
-   2014_|00:05:11|_Recording:  04_what she said						.wav
-   2014_|00:08:53|_Recording:  050_xentric_EP_ 1.2					.wav
-   2014_|00:02:35|_Recording:  051_xentric_1.0						.wav
-   2014_|00:07:13|_Recording:  060_Am weißen Strand [LSD_Rework]	.wav
-   2014_|00:03:30|_Recording:  069_Gigawatt [Demonstration]			.wav
-   2014_|00:06:46|_Recording:  070.1_substain_mars_[Demo]			.wav
-   2014_|00:01:00|_Recording:  070.2_CrushOnMelody_[Demo]			.wav
-   2014_|00:07:14|_Recording:  071_Float Out (Tv Quran mix)			.wav
-   2014_|00:12:18|_Recording:  072_Jackpot 1.0						.wav
-   2014_|00:03:00|_Recording:  0800.200.200._Outro_[ShittyKid]		.wav
-   2014_|20:08:15|_Recording:  DOA						            .wav
-   2014_|00:07:07|_Recording:  Spec_000001_0814						.wav
-   2014_|00:02:20|_Recording:  Spec_000002_0814						.wav
-   2014_|00:03:09|_Recording:  Spec_000003_0814						.wav
-   2014_|00:04:18|_Recording:  Spec_000004_0814						.wav
-   2014_|00:04:33|_Recording:  Spec_000005_0814						.wav
-   2014_|00:02:15|_Recording:  Spec_000006_0814						.wav
-   2014_|00:09:31|_Recording:  Spec_000001_0814_2					.wav
-   2014_|00:01:21|_Recording:  Spec_000002_0814_2					.wav
-   2014_|00:03:08|_Recording:  Spec_000003_0814_2					.wav
-   2014_|00:00:13|_Recording:  Spec_000004_0814_2					.wav
-   2014_|00:03:08|_Recording:  Spec_000001_0814_3					.wav
-   2014_|00:04:47|_Recording:  Spec_000002_0814_3					.wav
-   2014_|00:06:59|_Recording:  Spec_000003_0814_3					.wav
-   2014_|00:05:25|_Recording:  Spec_000004_0814_3					.wav
-   2014_|00:05:05|_Recording:  Spec_000005_0814_3					.wav
-   2014_|00:04:00|_Recording:  Spec_000006_0814_3					.wav
-   2014_|00:07:28|_Recording:  Spec_000001_0814_4					.wav
-   2014_|00:04:40|_Recording:  Spec_000007_1014_1					.wav
-   2015_|00:01:17|_Recording:  Cold Feedback 001					.wav
-   2015_|00:05:40|_Recording:  Cold Feedback 002					.wav
-   2015_|00:00:39|_Recording:  La Dreaming						           .wav
-   2015_|00:01:00|_Recording:  Nightmoves 001						       .wav
-   2015_|00:03:11|_Recording:  Nightmoves 002						       .wav
-   2015_|00:05:15|_Recording:  you know its simple					       .wav
-   2015_|00:03:38|_Recording:  Slonderdale 1						       .wav
-   2015_|00:06:22|_Recording:  Leihvater 001						       .wav
-   2015_|00:03:11|_Recording:  Leihvater 002						       .wav
-   2015_|00:04:41|_Recording:  Leihvater 003						       .wav
-   2015_|00:06:15|_Recording:  Leihvater 004						       .wav
-   2015_|00:03:34|_Recording:  Leihvater 005						       .wav
-   2015_|00:03:38|_Recording:  Leihvater 006						       .wav
-   2015_|00:18:55|_Recording:  deepfield 01						           .wav
-   XXXX_|00:00:00|_Recording:  kick´sNcutz3						           .wav
-   XXXX_|00:04:41|_Recording:  01 - simple disorder 44587 - simple disorder 44587	.mp3
-   XXXX_|00:03:01|_Recording:  02 - simple disorder 54811 - simple disorder 54811	.mp3
-   XXXX_|00:08:08|_Recording:  03 - simple disorder 48541 - simple disorder 48541	.mp3
-   XXXX_|00:09:25|_Recording:  04 - simple disorder 75245 - simple disorder 75245	.mp3
-   XXXX_|00:02:11|_Recording:  05 - simple disorder 75412 - simple disorder 75412	.mp3
-   XXXX_|00:05:18|_Recording:  06 - simple disorder 78954 - simple disorder 78954	.mp3
-   XXXX_|00:06:57|_Recording:  01 - broken - uLFOws²					.mp3
-   XXXX_|00:09:14|_Recording:  02 - brainfucking - brainfucking				.mp3
-   XXXX_|00:07:15|_Recording:  03 - crisis - crisis					.mp3
-   XXXX_|00:05:43|_Recording:  04 - Wrecked2 - Wrecked2					.mp3
-   XXXX_|00:05:27|_Recording:  05 - Hightech - Hightech					.mp3
-   XXXX_|00:07:10|_Recording:  06 - Outlands - Mix					.mp3
-   XXXX_|00:04:12|_Recording:  07 - Schaltwerk - Schaltwerk				.mp3
-   XXXX_|00:02:52|_Recording:  08 - slime - slime					.mp3
-   XXXX_|00:07:29|_Recording:  09 - trashcan - trashcan					.mp3
-   XXXX_|00:02:40|_Recording:  10 - smog - smog						.mp3
-   XXXX_|00:09:09|_Recording:  11 - rotex - 8						.mp3
-   XXXX_|00:04:54|_Recording:  12 - live - records5					.mp3
-   XXXX_|00:05:46|_Recording:  13 - Green Spidershine - Sunshine Remix 		        .mp3
-   2017_|00:56:21|_Recording:  IDSURFACE						.wav
-   2017_|00:56:21|_Recording:  IDSURFACE_320kbs						.mp3
-   2017_|00:03:11|_Recording:  Junkyard							.wav
-   2017_|00:09:25|_Recording:  Wreck							.wav
-   2017_|00:04:27|_Recording:  Vollmond							.wav
-   2017_|00:09:25|_Recording:  HeroZero							.wav
-   2017_|00:04:27|_Recording:  Slapz							.wav
-   2017_|00:02:00|_Recording:  RazR							.wav
-   2017_|00:04:47|_Recording:  Techbreak - Power below 60 percent			.mp3
-   2017_|00:06:47|_Recording:  Cyclones 001						.wav
-   2017_|00:04:19|_Recording:  Cyclones 002-old1					.wav
-   2017_|00:04:19|_Recording:  Cyclones 002						.wav
-   2017_|00:03:30|_Recording:  Kill Black Processes					.wav
-   2017_|00:05:54|_Recording:  Powerplex index						.wav
-   2017_|00:04:49|_Recording:  LA $MOKE							.wav
-   2017_|00:00:21|_Recording:  b3							.wav
-   2017_|00:00:00|_Recording:  200$							.wav
-   2017_|00:01:51|_Recording:  controlLoop						.wav
-   2017_|00:04:33|_Recording:  trolololol Electrobreaks					.wav
-   2017_|00:08:33|_Recording:  Tauberbischofsheim					.wav
-   2017_|00:06:02|_Recording:  Geoiler Loop						.wav
+   2014_|00:05:16|_Recording:  Serial Question Part 1_Scratched Window .wav
+   2014_|00:04:12|_Recording:  Serial Question Part 3			       .wav
+   2014_|00:01:51|_Recording:  Serial Question Part 4			       .wav
+   2014_|00:04:08|_Recording:  Serial Question Part 5			       .wav
+   2014_|00:07:53|_Recording:  Serial Question Part 2			       .wav
+   2014_|00:10:24|_Recording:  Differential Gedanke				       .wav
+   2014_|00:04:23|_Recording:  20x40x8000						       .wav
+   2014_|00:08:16|_Recording:  10x20x4000						       .wav
+   2014_|00:06:25|_Recording:  23x38x2935						       .wav
+   2014_|00:28:51|_Recording:  Taurus Valley					       .wav
+   2014_|00:04:51|_Recording:  Light Cable Transmission 1		       .wav
+   2014_|00:03:33|_Recording:  Light Cable Transmission 2		       .wav
+   2014_|00:04:15|_Recording:  Light Cable Transmission 3xx		       .wav
+   2014_|00:11:45|_Recording:  Light Cable Transmission 3xxLFO_1       .wav
+   2014_|00:05:33|_Recording:  Light Cable Transmission 4xxx	       .wav
+   2014_|00:07:38|_Recording:  Light Cable Transmission 5xxx	       .wav
+   2014_|00:08:54|_Recording:  Light Cable Transmission 6xxx	       .wav
+   2014_|00:03:18|_Recording:  Karma Forgave 3					       .mp3
+   2014_|00:08:17|_Recording:  florex							       .wav
+   2014_|00:08:42|_Recording:  01_was not						       .wav
+   2014_|00:11:30|_Recording:  02_what iam doing				       .wav
+   2014_|00:07:02|_Recording:  03_Datastructure					       .wav
+   2014_|00:05:11|_Recording:  04_what she said					       .wav
+   2014_|00:08:53|_Recording:  050_xentric_EP_ 1.2				       .wav
+   2014_|00:02:35|_Recording:  051_xentric_1.0					       .wav
+   2014_|00:07:13|_Recording:  060_Am weißen Strand [LSD_Rework]       .wav
+   2014_|00:03:30|_Recording:  069_Gigawatt [Demonstration]		       .wav
+   2014_|00:06:46|_Recording:  070.1_substain_mars_[Demo]		       .wav
+   2014_|00:01:00|_Recording:  070.2_CrushOnMelody_[Demo]		       .wav
+   2014_|00:07:14|_Recording:  071_Float Out (Tv Quran mix)		       .wav
+   2014_|00:12:18|_Recording:  072_Jackpot 1.0					       .wav
+   2014_|00:03:00|_Recording:  0800.200.200._Outro_[ShittyKid]	       .wav
+   2014_|20:08:15|_Recording:  DOA						               .wav
+   2014_|00:07:07|_Recording:  Spec_000001_0814					       .wav
+   2014_|00:02:20|_Recording:  Spec_000002_0814					       .wav
+   2014_|00:03:09|_Recording:  Spec_000003_0814					       .wav
+   2014_|00:04:18|_Recording:  Spec_000004_0814					       .wav
+   2014_|00:04:33|_Recording:  Spec_000005_0814					       .wav
+   2014_|00:02:15|_Recording:  Spec_000006_0814					       .wav
+   2014_|00:09:31|_Recording:  Spec_000001_0814_2				       .wav
+   2014_|00:01:21|_Recording:  Spec_000002_0814_2				       .wav
+   2014_|00:03:08|_Recording:  Spec_000003_0814_2				       .wav
+   2014_|00:00:13|_Recording:  Spec_000004_0814_2				       .wav
+   2014_|00:03:08|_Recording:  Spec_000001_0814_3				       .wav
+   2014_|00:04:47|_Recording:  Spec_000002_0814_3				       .wav
+   2014_|00:06:59|_Recording:  Spec_000003_0814_3				       .wav
+   2014_|00:05:25|_Recording:  Spec_000004_0814_3				       .wav
+   2014_|00:05:05|_Recording:  Spec_000005_0814_3				       .wav
+   2014_|00:04:00|_Recording:  Spec_000006_0814_3				       .wav
+   2014_|00:07:28|_Recording:  Spec_000001_0814_4				       .wav
+   2014_|00:04:40|_Recording:  Spec_000007_1014_1				       .wav
+   2015_|00:01:17|_Recording:  Cold Feedback 001				       .wav
+   2015_|00:05:40|_Recording:  Cold Feedback 002				       .wav
+   2015_|00:00:39|_Recording:  La Dreaming						       .wav
+   2015_|00:01:00|_Recording:  Nightmoves 001						   .wav
+   2015_|00:03:11|_Recording:  Nightmoves 002						   .wav
+   2015_|00:05:15|_Recording:  you know its simple					   .wav
+   2015_|00:03:38|_Recording:  Slonderdale 1						   .wav
+   2015_|00:06:22|_Recording:  Leihvater 001						   .wav
+   2015_|00:03:11|_Recording:  Leihvater 002						   .wav
+   2015_|00:04:41|_Recording:  Leihvater 003						   .wav
+   2015_|00:06:15|_Recording:  Leihvater 004						   .wav
+   2015_|00:03:34|_Recording:  Leihvater 005						   .wav
+   2015_|00:03:38|_Recording:  Leihvater 006						   .wav
+   2015_|00:18:55|_Recording:  deepfield 01						       .wav
+   XXXX_|00:00:00|_Recording:  kick´sNcutz3						       .wav
+   XXXX_|00:04:41|_Recording:  01 - simple disorder 44587              .mp3
+   XXXX_|00:03:01|_Recording:  02 - simple disorder 54811              .mp3
+   XXXX_|00:08:08|_Recording:  03 - simple disorder 48541              .mp3
+   XXXX_|00:09:25|_Recording:  04 - simple disorder 75245              .mp3
+   XXXX_|00:02:11|_Recording:  05 - simple disorder 75412              .mp3
+   XXXX_|00:05:18|_Recording:  06 - simple disorder 78954              .mp3
+   XXXX_|00:06:57|_Recording:  01 - broken - uLFOws²				   .mp3
+   XXXX_|00:09:14|_Recording:  02 - brainfucking - brainfucking		   .mp3
+   XXXX_|00:07:15|_Recording:  03 - crisis - crisis					   .mp3
+   XXXX_|00:05:43|_Recording:  04 - Wrecked2 - Wrecked2				   .mp3
+   XXXX_|00:05:27|_Recording:  05 - Hightech - Hightech				   .mp3
+   XXXX_|00:07:10|_Recording:  06 - Outlands - Mix					   .mp3
+   XXXX_|00:04:12|_Recording:  07 - Schaltwerk - Schaltwerk			   .mp3
+   XXXX_|00:02:52|_Recording:  08 - slime - slime					   .mp3
+   XXXX_|00:07:29|_Recording:  09 - trashcan - trashcan				   .mp3
+   XXXX_|00:02:40|_Recording:  10 - smog - smog						   .mp3
+   XXXX_|00:09:09|_Recording:  11 - rotex - 8						   .mp3
+   XXXX_|00:04:54|_Recording:  12 - live - records5					   .mp3
+   XXXX_|00:05:46|_Recording:  13 - Green Spidershine - Sunshine Remix .mp3
+   2017_|00:56:21|_Recording:  IDSURFACE						       .wav
+   2017_|00:56:21|_Recording:  IDSURFACE_320kbs						   .mp3
+   2017_|00:03:11|_Recording:  Junkyard							       .wav
+   2017_|00:09:25|_Recording:  Wreck							       .wav
+   2017_|00:04:27|_Recording:  Vollmond							       .wav
+   2017_|00:09:25|_Recording:  HeroZero							       .wav
+   2017_|00:04:27|_Recording:  Slapz							       .wav
+   2017_|00:02:00|_Recording:  RazR							           .wav
+   2017_|00:04:47|_Recording:  Techbreak - Power below 60 percent	   .mp3
+   2017_|00:06:47|_Recording:  Cyclones 001						       .wav
+   2017_|00:04:19|_Recording:  Cyclones 002-old1					   .wav
+   2017_|00:04:19|_Recording:  Cyclones 002						       .wav
+   2017_|00:03:30|_Recording:  Kill Black Processes					   .wav
+   2017_|00:05:54|_Recording:  Powerplex index						   .wav
+   2017_|00:04:49|_Recording:  LA $MOKE							       .wav
+   2017_|00:00:21|_Recording:  b3							           .wav
+   2017_|00:00:00|_Recording:  200$							           .wav
+   2017_|00:01:51|_Recording:  controlLoop						       .wav
+   2017_|00:04:33|_Recording:  trolololol Electrobreaks				   .wav
+   2017_|00:08:33|_Recording:  Tauberbischofsheim					   .wav
+   2017_|00:06:02|_Recording:  Geoiler Loop						       .wav
    2017_|00:06:41|_Recording:  132th_Floor_-_Oh_can_you_wash_my_brain_again		.mp3
-   2017_|00:05:11|_Recording:  132th_Floor_-_what_she_said				.mp3
+   2017_|00:05:11|_Recording:  132th_Floor_-_what_she_said			   .mp3
   
 
 
@@ -834,6 +838,8 @@ O2_TEMP_DATA_PIPELINE ADRESSES
 : End                        : Death                       : Mother                   : Guide
 : Katrat666                  : Atknis                      : Arkansas                 : Amtrak
 : Seattle                    : Paul                        : Boston                   : Nathaniel
+
+
 
 : Liebe		    : Schmerzen	    : Synthese		        : Informationsfluss	: Geld			    : Schulden
 : Wärme		    : Medikation	: Datenstruktur		    : Wiederstand		: Kohle			    : Guthaben
@@ -1077,7 +1083,7 @@ Social Exchange (SOEX) = EXPLOSIVE (Virtual Viral) = CHARACTER SET = (Shift Coun
 
 === Thrift ===
 
-// No need for Implement == Implement "ERROR" Load \\ Swapcontrol 
+// No need for Implement    == Implement "ERROR" Load \\ Swapcontrol 
 
         Love Block          == Selfmedia_download (Selfmedia ?) == Reflection "xxx"
         Chemical Balance    == (Repeat) ¼ (Period)
@@ -1264,7 +1270,7 @@ Departure Date [Circle]
 
 \\ This Item describes the return effect of concentration 
 
-: Hoax awakening in dream :==> " Graphical Eclipse around object "
+: awakening in dream      :==> " Graphical Eclipse around object "
 : Circle                  :==> " GEAO                            "
 : DNA Repository          :==> " System Buiĺd 1987               "
 : Bankruptcy              :==> " Banking System                  "
@@ -1272,6 +1278,8 @@ Departure Date [Circle]
 : Resistor Challenge      :==> " Artist Drive                    "
 : Freedom of doing        :==> " Price to pay                    "
 : Goal Blur               :==> " Unclear AIM                     "
+: Exclude Germany         :==> " Excluded Self_position          "
+
 
 \\ This item allocate the missing state of "enable" Moving or Transportation
 \\ Corrupt Gateways
@@ -1280,6 +1288,7 @@ GeoPosition_X001_: Allocation       | 7 Years of Transition
 GeoPosition_X002_: Processing       | Memories of a future past
 GeoPosition_X003_: Relation         | Family Network
 GeoPosition_X004_: Integration      | Event handling
+GeoPosition_X005_: Landing          | A safe Place
 
 ** Analysis of => UR_000.1 = Biological Electricity **
 
@@ -1301,5 +1310,63 @@ ________________________________________
 ________________________________________|
 
 
+:: Error Report :: 26_02_2018 :: DATA TRACEBACK
 
+Filesystem-Restore-Mountain | Desolate Enviroment
+Infracore sublement         | Detox
+Database Block              | Rewind
 
+--- Fragmented Reality ---
+
+Key term listing
+
+KTL000040-- Conciousnes Balance
+KTL000080-- Information Input
+KTL000100-- Information Processing
+KTL000120-- Synchron Data
+KTL000140-- ** Biological Frequence **
+KTL000160-- -- Empty Entry --
+KTL000180-- -- Alienation  --
+KTL000200-- -- Lack of Recreation --
+KTL000220-- -- Toxic Transmission(s) --
+KTL000XXX-- ** Positive Feedbackloop **
+----------- -- ------------------------
+----------- -- ------------------------
+
+KTL000300-- -- Crazy People Isolate
+KTL000320-- -- Sun Positive Center [Also Crazy or Extensive]
+KTL000340-- -- DDR -- Falseload
+KTL000360-- -- Toxic Tansmission
+KTL000380-- -- Time Jump 26-02-2018 => 21:00 PM
+
+** TimeJump Proceeded **
+
+\\ This Item Describes the Mirroring of Conversation Context & Information
+
+\\ This Item Describes the Night Grounding Sky Mechanism that let you connect to the universe again
+
+\\ This Item Describes the conflict with TV Programms
+
+\\ This Item Describes how to contact and communicate with people sorrounding you in the daily life
+
+\\ This Item Describes how to say no to people which is necessary to care about inner peace
+
+\\ This Item Describes The Passion of a Mother that is suffering in cause of the Violence she holds back
+
+\\ This Item Describes the Density of a Community or Nation
+
+\\ This Item Describes the lack of Endurance after the the Decison for it is made
+
+\\ This Item Describes the unfolding Insecureities from a misleading alternative Objective
+
+\\ This Item Describes the $LOAD Screen at a C64 Terminal 
+
+\\ This Item Describes the Adressing of Financial Institutions
+
+\\ This Item Describes How to Sell a Product 
+
+\\ This Item Describes How to Transform Inventory Items to Products that are for sales
+
+\\ This Item Describes Conflicts in Selfcare, Behaviour and the Nervous System
+
+\\ 
