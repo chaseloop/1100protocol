@@ -7041,9 +7041,8 @@ DEC ---
 # Safety Requierements
 # Project Deadline // Finish
 
-
-
-
-*** C H E M I C A L  B A L A N C E  R E L O A D ***
+* * * C H E M I C A L  B A L A N C E * * * 
 
 Nucleus Serial 
+
+
